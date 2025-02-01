@@ -80,7 +80,7 @@ public class Main {
             b.setwin(true);
             temp = new ArrayList<Integer>();
             temp.add(b.getmoves().get(u));
-            b.setmove((ArrayList<Integer>)temp.clone());
+            b.setmove(new ArrayList<Integer>(temp));
             continue nextb;
           }
           //otherwise for each move find if human can win and if they can remove that move leaving only the blocking move avalible
