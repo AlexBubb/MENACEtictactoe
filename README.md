@@ -1,2 +1,2 @@
 # MENACEtictactoe
-I digital recreation of MENACE
+A digital recreation of MENACE
