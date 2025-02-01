@@ -1,7 +1,8 @@
 # MENACEtictactoe
 A digital recreation of MENACE
 
-A full explination of the Machine Algorithm implemented:\n
+A full explination of the Machine Algorithm implemented:
+
 Please watch this video by Vsause that will better explain the theroritical algorithim with an exelent physical example: https://youtu.be/sw7UAZNgGg8?si=x7EAdTBSKi88Hiiz
 There are three parts to my program: 
 Creating the boxes (search function)
