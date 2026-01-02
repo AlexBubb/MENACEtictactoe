@@ -1,5 +1,3 @@
-//Alex Bubb Final Coding Project Period 6
-//READ THE README theres some cool stuff in there
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Scanner;
